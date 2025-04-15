@@ -42,6 +42,7 @@ export async function getRecipe(req, res) {
         "Top with parsley",
         "Serve and enjoy!"
       ],
+      
       image: "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-bowl.jpg",
     }, res);
 
